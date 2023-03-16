@@ -1242,3 +1242,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+@media (max-width:700px){
+  #hero{
+    background-image: url('../img/bgphone.jpg');
+    background-position: center;
+  }
+}
